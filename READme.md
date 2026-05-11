@@ -118,6 +118,14 @@ The website is designed to create a welcoming and authentic online experience fo
 
 ---
 
+## Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch (`feature/your-feature`)
+3. Commit your changes
+4. Push to your branch
+5. Open a Pull Request
+
 ## Author
 
 **Idah Karwitha**
@@ -136,9 +144,4 @@ https://idahk19.github.io/swahili-restaurant/
 ---
 
 ## Copyright
-
-<<<<<<< HEAD
- ©2026 Swahili Restaurant. All rights reserved.
-=======
- 2026 Swahili Restaurant. All rights reserved.
->>>>>>> 83008f2f7a788e25901e296af1098072f3e7c5bf
+ ©2026 Swahili Restaurant. All rights reserved. 
