@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a website created for a Swahili restaurant. The goal of the project was to design a website that showcases authentic Swahili cuisine.
+This project is a website created for a Swahili restaurant. The goal of the project was to design a website that showcases authentic Swahili cuisines.
 
 
 ---
@@ -137,4 +137,8 @@ https://idahk19.github.io/swahili-restaurant/
 
 ## Copyright
 
+<<<<<<< HEAD
  ©2026 Swahili Restaurant. All rights reserved.
+=======
+ 2026 Swahili Restaurant. All rights reserved.
+>>>>>>> 83008f2f7a788e25901e296af1098072f3e7c5bf
