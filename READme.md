@@ -2,7 +2,7 @@
 
 ## Project Brief
 
-This project is a website created for a Swahili restaurant. The goal of the project was to design a website that showcases authentic Swahili cuisine.
+This project is a website created for a Swahili restaurant. The goal of the project was to design a website that showcases authentic Swahili cuisines.
 
 
 ---
