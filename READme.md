@@ -1,6 +1,6 @@
 # Swahili Restaurant 
 
-## Project Brief
+## Overview
 
 This project is a website created for a Swahili restaurant. The goal of the project was to design a website that showcases authentic Swahili cuisine.
 
@@ -40,11 +40,15 @@ The website highlights restaurant services including:
 - Event Catering
 - Takeaway Services
 
+
+
 ---
 
 ### Accessible Media
 All images include descriptive `alt` text to improve accessibility for screen readers.
-
+![services image](assets/images/services.jpg)
+![restaurant image](assets/images/aboutus.jpg)
+![aboutus image](assets/images/restaurant.jpg)
 ---
 
 ### Contact Form Validation
@@ -87,7 +91,7 @@ Open the project folder in VS Code and launch `index.html` using:
 
 ## Project Structure
 
-```txt
+```
 swahili-restaurant/
 │
 ├── index.html
@@ -125,7 +129,7 @@ Fullstack developer
 ## Live Site
 
 
-```txt
+```
 https://idahk19.github.io/swahili-restaurant/
 ```
 
@@ -133,4 +137,4 @@ https://idahk19.github.io/swahili-restaurant/
 
 ## Copyright
 
- 2026 Swahili Restaurant. All rights reserved.
+ ©2026 Swahili Restaurant. All rights reserved.
