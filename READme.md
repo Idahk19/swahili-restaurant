@@ -1,11 +1,16 @@
 # Swahili Restaurant 
+Swahili Restaurant is a platform designed to showcase swahili cuisines and the services that the Swahili restaurant offers. It features the best architecture required for an excellent browsing experience
 
 ## Overview
 
-This project is a website created for a Swahili restaurant. The goal of the project was to design a website that showcases authentic Swahili cuisines.
+The website is designed to create a welcoming and authentic online experience for customers interested in Swahili cuisine.
 
 
 ---
+## Visual Identity
+
+* **images:** Clear images of the cuisines available
+* **Typography:** Clean, professional sans-serif fonts for maximum readability.
 
 ## Key Features
 
@@ -44,8 +49,9 @@ The website highlights restaurant services including:
 
 ---
 
-### Accessible Media
-All images include descriptive `alt` text to improve accessibility for screen readers.
+## Accessible Media
+
+- All images include descriptive `alt` text to improve accessibility for screen readers.
 ![services image](assets/images/services.jpg)
 ![restaurant image](assets/images/aboutus.jpg)
 ![aboutus image](assets/images/restaurant.jpg)
@@ -66,7 +72,13 @@ The footer section includes social media handles for Instagram and TikTok.
 
 ## Technologies Used
 
-- HTML5
+- **Language:** HTML5
+- **Icons:** High-quality vector iconography for a modern look.
+
+## Coding Standards
+*   Ensure all HTML is semantic and well-commented.
+*   Maintain the **Stone & Amber** color palette for all UI additions.
+*   Test responsiveness across multiple screen sizes before submitting.
 
 ---
 
@@ -100,7 +112,11 @@ swahili-restaurant/
 │
 └── README.md
 ```
+## Future Roadmap
 
+* **Dynamic Integration:** Migrating to React and Tailwind CSS for enhanced component reusability.
+* **Backend Integration:** Implementing a Django-based system.
+* **Admin Dashboard:** A secure portal for the restaurant management to manage the system.
 ---
 
 ## Git Workflow
@@ -111,20 +127,25 @@ swahili-restaurant/
 
 ---
 
-## Business Rationale
-
-The website is designed to create a welcoming and authentic online experience for customers interested in Swahili cuisine.
-
-
----
-
 ## Contributions are welcome!
+We welcome contributions from the community and the team to help make Swahili Restaurant the gold standard for the hospitality platforms.
+ 
+ How to Contribute
 
-1. Fork the repository
-2. Create a new branch (`feature/your-feature`)
-3. Commit your changes
-4. Push to your branch
-5. Open a Pull Request
+1. Fork the Repository - Create your own copy of the project to work on.
+2. Create a new branch (`feature/your-feature`) -
+```bash
+git checkout -b feature/AmazingFeature 
+``` 
+3. Commit your changes - 
+```bash
+    git commit -m 'Add some AmazingFeature'
+```
+4. Push to your branch -
+```bash
+    git push origin feature/AmazingFeature
+```
+5. Open a Pull Request - Describe your changes and submit for review.
 
 ## Author
 
