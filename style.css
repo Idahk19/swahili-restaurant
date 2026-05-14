@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fdfaf6;
+  color: #333;
+}
+
+header {
+  background-color: #8b4513;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+section {
+  margin-bottom: 30px;
+   
+}
+#home h2 {
+  color: #8b4513;
+  font-size: 40px;
+  text-align: center;
+}
+.container p {
+  font-size: 18px;
+  color: #333;
+}
+
+#services, #contact, #about{
+    background-color: burlywood;
+}
+.nav-list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.nav-list a {
+  text-decoration: none;
+  color: rgb(223, 141, 35);
+  font-size: 20px;
+}
+
+.nav-list a:hover {
+  color: black;
+}
+
+.social-links {
+  text-align: center;
+  padding: 40px;
+  background-color: beige;
+}
+
+main {
+  text-align: center;
+  padding: 40px;
+  background-color: beige;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  padding: 40px;
+  background-color: #8b4513;
+}
+h2, h3, h4 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #8b4513 ;
+}
+h3 ~ p {
+    color: black;
+}
+h2 ~ p {
+    color: black;
+    
+}
+
+input[type="submit"] {
+  background-color: #8b4513;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  
+}
+
+input {
+  color: white;
+  padding: 10px 100px;
+  border-radius: 20px;
+  cursor: pointer;
+  
+}
+textarea {
+    color: white;
+    padding: 10px 50px;
+    border-radius: 20px;
+    cursor: pointer;
+}
