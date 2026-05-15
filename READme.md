@@ -87,7 +87,7 @@ The footer section includes social media handles for Instagram and TikTok.
 ### Clone the Repository
 
 ```
-git clone https://github.com/Idahk19/swahili-restaurant.git
+git clone https://github.com/Idahk19/global-green.git
 ```
 
 ---
@@ -133,7 +133,7 @@ We welcome contributions from the community and the team to help make Swahili Re
  How to Contribute
 
 1. Fork the Repository - Create your own copy of the project to work on.
-2. Create a new branch (`feature/your-feature`) -
+2. Create a new branch 
 ```bash
 git checkout -b feature/AmazingFeature 
 ``` 

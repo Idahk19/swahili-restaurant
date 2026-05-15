@@ -1,7 +1,11 @@
+/*Universal selector*/
+
 * {
   margin: 0;
   padding: 0;
 }
+
+/*Element selector*/
 
 body {
   font-family: Arial, sans-serif;
@@ -18,20 +22,79 @@ header {
 
 section {
   margin-bottom: 30px;
-   
 }
+main {
+  text-align: center;
+  padding: 40px;
+  background-color: beige;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  padding: 40px;
+  background-color: #8b4513;
+}
+
+
+input[type="submit"] {
+  background-color: #8b4513;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+input {
+  color: white;
+  padding: 10px 100px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+textarea {
+  color: white;
+  padding: 10px 50px;
+  border-radius: 20px;
+  cursor: pointer;
+} 
+
+/*group selector*/
+
+h2,
+h3,
+h4 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: #8b4513;
+}
+
+/*general sibling selector(follows order)*/
+
+h3 ~ p {
+  color: black;
+}
+h2 ~ p {
+  color: black;
+}
+
+/*id selector*/
+
 #home h2 {
   color: #8b4513;
   font-size: 40px;
   text-align: center;
 }
+
+#services,
+#contact,
+#about {
+  background-color: burlywood;
+}
+
+/*class selector*/
+
 .container p {
   font-size: 18px;
   color: #333;
-}
-
-#services, #contact, #about{
-    background-color: burlywood;
 }
 .nav-list {
   list-style: none;
@@ -46,59 +109,14 @@ section {
   font-size: 20px;
 }
 
-.nav-list a:hover {
-  color: black;
-}
-
 .social-links {
   text-align: center;
   padding: 40px;
   background-color: beige;
 }
 
-main {
-  text-align: center;
-  padding: 40px;
-  background-color: beige;
+/*interactive state selectors*/
+.nav-list a:hover {
+  color: black;
 }
 
-footer {
-  text-align: center;
-  color: white;
-  padding: 40px;
-  background-color: #8b4513;
-}
-h2, h3, h4 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: #8b4513 ;
-}
-h3 ~ p {
-    color: black;
-}
-h2 ~ p {
-    color: black;
-    
-}
-
-input[type="submit"] {
-  background-color: #8b4513;
-  color: white;
-  padding: 10px 20px;
-  border-radius: 20px;
-  cursor: pointer;
-  
-}
-
-input {
-  color: white;
-  padding: 10px 100px;
-  border-radius: 20px;
-  cursor: pointer;
-  
-}
-textarea {
-    color: white;
-    padding: 10px 50px;
-    border-radius: 20px;
-    cursor: pointer;
-}
